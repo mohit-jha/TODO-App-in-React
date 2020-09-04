@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ToDo-App-in-React/static/css/main.caf35819.chunk.css",
-    "main.js": "/ToDo-App-in-React/static/js/main.65e93931.chunk.js",
-    "main.js.map": "/ToDo-App-in-React/static/js/main.65e93931.chunk.js.map",
-    "runtime-main.js": "/ToDo-App-in-React/static/js/runtime-main.8c172644.js",
-    "runtime-main.js.map": "/ToDo-App-in-React/static/js/runtime-main.8c172644.js.map",
-    "static/js/2.4f5d1831.chunk.js": "/ToDo-App-in-React/static/js/2.4f5d1831.chunk.js",
-    "static/js/2.4f5d1831.chunk.js.map": "/ToDo-App-in-React/static/js/2.4f5d1831.chunk.js.map",
-    "index.html": "/ToDo-App-in-React/index.html",
-    "precache-manifest.9fcb27d66b2824bd0f1d289bd33cfb30.js": "/ToDo-App-in-React/precache-manifest.9fcb27d66b2824bd0f1d289bd33cfb30.js",
-    "service-worker.js": "/ToDo-App-in-React/service-worker.js",
-    "static/css/main.caf35819.chunk.css.map": "/ToDo-App-in-React/static/css/main.caf35819.chunk.css.map",
-    "static/js/2.4f5d1831.chunk.js.LICENSE.txt": "/ToDo-App-in-React/static/js/2.4f5d1831.chunk.js.LICENSE.txt",
-    "static/media/Form.css": "/ToDo-App-in-React/static/media/690074.be3f3643.jpg"
+    "main.css": "/ToDo-App-in-react/static/css/main.dc6ec11d.chunk.css",
+    "main.js": "/ToDo-App-in-react/static/js/main.d55b84b7.chunk.js",
+    "main.js.map": "/ToDo-App-in-react/static/js/main.d55b84b7.chunk.js.map",
+    "runtime-main.js": "/ToDo-App-in-react/static/js/runtime-main.e9354574.js",
+    "runtime-main.js.map": "/ToDo-App-in-react/static/js/runtime-main.e9354574.js.map",
+    "static/js/2.4f5d1831.chunk.js": "/ToDo-App-in-react/static/js/2.4f5d1831.chunk.js",
+    "static/js/2.4f5d1831.chunk.js.map": "/ToDo-App-in-react/static/js/2.4f5d1831.chunk.js.map",
+    "index.html": "/ToDo-App-in-react/index.html",
+    "precache-manifest.e7531231a23db7ef4399177b00785081.js": "/ToDo-App-in-react/precache-manifest.e7531231a23db7ef4399177b00785081.js",
+    "service-worker.js": "/ToDo-App-in-react/service-worker.js",
+    "static/css/main.dc6ec11d.chunk.css.map": "/ToDo-App-in-react/static/css/main.dc6ec11d.chunk.css.map",
+    "static/js/2.4f5d1831.chunk.js.LICENSE.txt": "/ToDo-App-in-react/static/js/2.4f5d1831.chunk.js.LICENSE.txt",
+    "static/media/Form.css": "/ToDo-App-in-react/static/media/690074.be3f3643.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c172644.js",
+    "static/js/runtime-main.e9354574.js",
     "static/js/2.4f5d1831.chunk.js",
-    "static/css/main.caf35819.chunk.css",
-    "static/js/main.65e93931.chunk.js"
+    "static/css/main.dc6ec11d.chunk.css",
+    "static/js/main.d55b84b7.chunk.js"
   ]
 }
