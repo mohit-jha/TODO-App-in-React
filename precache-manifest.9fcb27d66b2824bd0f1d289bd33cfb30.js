@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54942fc3ee1da93f4a83731f80008ef9",
+    "revision": "79d612adef794174ec3bfef7872c5a9f",
     "url": "/ToDo-App-in-React/index.html"
   },
   {
-    "revision": "f7cd5fe5f89f929403ab",
+    "revision": "e301c2425948d9fb8009",
     "url": "/ToDo-App-in-React/static/css/main.caf35819.chunk.css"
   },
   {
-    "revision": "d77cd048d33fe2a0b9a1",
-    "url": "/ToDo-App-in-React/static/js/2.5c387123.chunk.js"
+    "revision": "c04aff44dcd11dfb34c8",
+    "url": "/ToDo-App-in-React/static/js/2.4f5d1831.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/ToDo-App-in-React/static/js/2.5c387123.chunk.js.LICENSE.txt"
+    "url": "/ToDo-App-in-React/static/js/2.4f5d1831.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7cd5fe5f89f929403ab",
-    "url": "/ToDo-App-in-React/static/js/main.ca6c5edb.chunk.js"
+    "revision": "e301c2425948d9fb8009",
+    "url": "/ToDo-App-in-React/static/js/main.65e93931.chunk.js"
   },
   {
     "revision": "d9080ccd2230c2f4485f",
